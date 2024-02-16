@@ -1,4 +1,3 @@
-# setup
+# SimWerx Report Generator
 
-- npm install
-- open index.html
+- This is a report generator that I'm doing for SimWerx
